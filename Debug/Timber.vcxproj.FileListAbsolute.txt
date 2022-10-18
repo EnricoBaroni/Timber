@@ -1,0 +1,2 @@
+C:\Users\enric\source\repos\Timber\Debug\Timber.exe
+C:\Users\enric\source\repos\Timber\Debug\Timber.pdb
